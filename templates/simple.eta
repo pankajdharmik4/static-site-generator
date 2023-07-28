@@ -15,17 +15,17 @@
       <div class="left-container md:w-[55%] w-[100vw] mt-4 md:mt-[30px] relative">
           <div class="info ml-6 md:ml-10 mr-5 text-primary">
             <div class="flex items-center justify-between w-[90vw]">
-              <div class="key font-light text-xs">2237769</div>
+              <div class="key font-light text-xs"><%= it.key %></div>
               <div class="font-normal md:invisible  text-right">
                 <div class="text-xs text-[#9497A8]">PRICE</div>
-                <div class="md:mt-2 text-sm text-black">0.1</div>
+                <div class="md:mt-2 text-sm text-black"><%= it.price %></div>
               </div>
             </div>
-            <div class="activity text-3xl w-[65vw]  md:w-full md:text-5xl font-extrabold leading-12 mt-2 mb-6 uppercase">EXPLORE THE NIGHTLIFE OF YOUR CITY</div>
+            <div class="activity text-3xl w-[65vw]  md:w-full md:text-5xl font-extrabold leading-12 mt-2 mb-6 uppercase"><%= it.activity %></div>
             <div class="font-semibold text-sm mb-2 md:mb-6">OUTDOOR & SPORTING GOODS COMPANY</div>
             <div class="button bg-[#D93A31] h-[50px] w-[210px] flex justify-around items-center mb-2">
               <button class="text-white text-xs flex items-center justify-center cursor-pointer">EXPLORE MORE</button>
-              <div><img src="../src/assets/images/Arrow.png" alt=""></div>
+              <div><img src="./src/assets/images/Arrow.png" alt=""></div>
             </div>
             <div class="font-light text-sm mb-8 invisible md:visible">We have more special goods for you 🚀</div>
             <div class="flex">
@@ -47,25 +47,25 @@
       <div class="right-container md:w-[45%] w-[99vw] flex flex-col z-30">
           <div class="price-container invisible md:visible h-[25%] flex flex-col items-end mt-10 mr-12">
             <div class="price font-normal	text-[#9497A8]">PRICE</div>
-            <div class="price-value">0.1</div>
+            <div class="price-value"><%= it.price %></div>
           </div>
           <div class="group relative">
             <div class="image-group flex">
               <div class="w-[50%] flex">
-                <img src="../src/assets/images/Person1.png" alt="" class="md:mb-[102px]">
+                <img src="./src/assets/images/Person1.png" alt="" class="md:mb-[102px]">
               </div>
               <div class="flex flex-col flex-1 justify-end items-end">
                 <div class="relative">
-                  <img src="../src/assets/images/Group3.png" alt="">
+                  <img src="./src/assets/images/Group3.png" alt="">
                   <div class="absolute inset-0 flex justify-center items-center z-10 w-full h-full">
-                    <img src="../src/assets/images/Group2.png" alt="" class="w-[125px] h-[125px]">
+                    <img src="./src/assets/images/Group2.png" alt="" class="w-[125px] h-[125px]">
                   </div>
                 </div>
-                <img src="../src/assets/images/Person2.png" alt="" class="z-10">
+                <img src="./src/assets/images/Person2.png" alt="" class="z-10">
               </div>
             </div>
             <div class="absolute inset-0 flex justify-center items-center z-20">
-              <img src="../src/assets/images/Group4.png" alt="" class="md:mt-[96px] h-[60px] w-[60px]">
+              <img src="./src/assets/images/Group4.png" alt="" class="md:mt-[96px] h-[60px] w-[60px]">
             </div>
           </div>
       </div>
@@ -74,17 +74,17 @@
     </div>
     <div class="md:w-full w-[100vw] h-[102px] md:absolute bg-[#2B2B35] flex bottom-0">
       <div class="flex items-center justify-center mr-20 md:ml-10 ml-8">
-        <img src="../src/assets/images/card-send.png" alt="" class="h-[40px] w-[40px]">
+        <img src="./src/assets/images/card-send.png" alt="" class="h-[40px] w-[40px]">
         <div class="md:ml-1">
-          <div class="text-[#B5B5C2] text-xs font-normal	">ACCESSIBILITY</div>
-          <div class="text-white text-sm font-bold	">0.32</div>
+          <div class="text-[#B5B5C2] text-xs font-normal">ACCESSIBILITY</div>
+          <div class="text-white text-sm font-bold	"><%= it.accessibility %></div>
         </div>
       </div>
       <div class="flex items-center justify-center">
-        <img src="../src/assets/images/shield-tick.png" alt="" class="h-[40px] w-[40px]">
+        <img src="./src/assets/images/shield-tick.png" alt="" class="h-[40px] w-[40px]">
         <div class="ml-1">
-          <div class="text-[#B5B5C2] text-xs font-normal	">TYPE</div>
-          <div class="text-white text-sm font-bold uppercase">SOCIAL</div>
+          <div class="text-[#B5B5C2] text-xs font-normal">TYPE</div>
+          <div class="text-white text-sm font-bold uppercase"><%= it.type %></div>
         </div>
       </div>
     </div>
