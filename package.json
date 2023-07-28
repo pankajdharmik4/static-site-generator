@@ -12,6 +12,8 @@
     "tailwindcss": "^3.3.3"
   },
   "dependencies": {
-    "eta": "^3.1.0"
+    "axios": "^1.4.0",
+    "eta": "^3.1.0",
+    "express": "^4.18.2"
   }
 }
