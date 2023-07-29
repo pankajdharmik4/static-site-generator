@@ -52,6 +52,7 @@ app.get('/',async (req,res)=>{
 app.get('/Home',async (req,res)=>{
     try {
         let response  = await axios.get("https://www.boredapi.com/api/activity");
+        // console.log(response.data)
 
         const {key,activity,price,accessibility,type} = response.data;
         
