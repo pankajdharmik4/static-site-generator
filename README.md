@@ -1,7 +1,8 @@
 # Static Site Generator Script
 
 
-A script to generate unique pages. These pages are dynamically generated using the script, and the UI of the pages are same but the data used to generate the pages are unique. Bored API is used to generate data.
+A script to generate unique pages. These pages are dynamically generated using the script, and the UI of the pages are same but the data used to generate the pages are unique. Bored API is used to generate data.The webiste is completely mobile-responsive. The website is built using HTML and CSS without any JS frameworks, and the ETA.js templating engine is used for rendering. Additionally, CSS frameworks Tailwind CSS is utilized for improved styling.
+<br>
 
 ![Model](https://github.com/pankajdharmik4/static-site-generator/blob/9dfbf056d2d062b49ad902d2e1a41609fb3e65ee/static-site-generator.png)
 
