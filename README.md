@@ -14,7 +14,7 @@ A script to generate unique pages. These pages are dynamically generated using t
 
 ## 👀 Preview
 
-### Live -https://static-site-generator.onrender.com/Home{:target="_blank" rel="noopener"}
+### Live -https://static-site-generator.onrender.com/Home
 ### 10 unique pages link:
 1.  https://sbassignment-1.netlify.app/
 2.  https://sbassignment-2.netlify.app/
