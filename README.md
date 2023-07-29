@@ -7,25 +7,25 @@ A script to generate unique pages. These pages are dynamically generated using t
 
 ## 💻 Tech Stack
 
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions.
-- [ETA](https://eta.js.org/) - Eta Lightweight, powerful, pluggable embedded JS template engine.
-- [TailwindCSS](https://tailwindcss.com) - Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.
-- [Express](https://expressjs.com/)  - Fast, unopinionated, minimalist web framework for Node.js
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:target="_blank" rel="noopener"} - JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions.
+- [ETA](https://eta.js.org/){:target="_blank" rel="noopener"} - Eta Lightweight, powerful, pluggable embedded JS template engine.
+- [TailwindCSS](https://tailwindcss.com){:target="_blank" rel="noopener"} - Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.
+- [Express](https://expressjs.com/){:target="_blank" rel="noopener"}  - Fast, unopinionated, minimalist web framework for Node.js
 
 ## 👀 Preview
 
-### Live -https://static-site-generator.onrender.com/Home
+### Live -https://static-site-generator.onrender.com/Home{:target="_blank" rel="noopener"}
 ### 10 unique pages link:
-1.  https://sbassignment-1.netlify.app/
-2.  https://sbassignment-2.netlify.app/
-3.  https://sbassignment-3.netlify.app/
-4.  https://sbassignment-4.netlify.app/
-5.  https://sbassignment-5.netlify.app/
-6.  https://sbassignment-6.netlify.app/
-7.  https://sbassignment-7.netlify.app/
-8.  https://sbassignment-8.netlify.app/
-9.  https://sbassignment-9.netlify.app/
-10.  https://sbassignment-10.netlify.app/
+1.  https://sbassignment-1.netlify.app/{:target="_blank" rel="noopener"}
+2.  https://sbassignment-2.netlify.app/{:target="_blank" rel="noopener"}
+3.  https://sbassignment-3.netlify.app/{:target="_blank" rel="noopener"}
+4.  https://sbassignment-4.netlify.app/{:target="_blank" rel="noopener"}
+5.  https://sbassignment-5.netlify.app/{:target="_blank" rel="noopener"}
+6.  https://sbassignment-6.netlify.app/{:target="_blank" rel="noopener"}
+7.  https://sbassignment-7.netlify.app/{:target="_blank" rel="noopener"}
+8.  https://sbassignment-8.netlify.app/{:target="_blank" rel="noopener"}
+9.  https://sbassignment-9.netlify.app/{:target="_blank" rel="noopener"}
+10.  https://sbassignment-10.netlify.app/{:target="_blank" rel="noopener"}
 
 ## Getting Started
 
